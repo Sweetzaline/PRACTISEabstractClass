@@ -1,0 +1,29 @@
+NON ABSTRACT METHOD/CONCRETE METHOD:
+Method with method body is called as Concrete method
+Example: public void Add(int x, int y)
+{
+}
+
+ABSTRACT  METHOD:
+-Method without method body is called as Abstract method.
+-The method contains only declaration of the method.
+-Concept Abstract method of is similar to the Concept of overriding.
+-Example: public abstract void Add(int x, int y);
+
+USE:
+-If abstract method is under any class, then the child class of the class is Responsible for implementing the method, without fail.
+-But the child class has to follow some restrictions provided by the parent class.
+
+CHILD CLASS OF ABSTRACT CLASS:
+-Implement each and every abstract method of parent class.
+-Now only we can consume non-abstract methods of parent class.
+
+ABSTRACT CLASS
+-use abstract modifier to define the abstract class
+-Abstract Class can contain methods that have method body. (Non-abstract method)
+-Abstract Class can contain methods that don't have method body.(Abstract method)
+-Example: 
+abstract class Class1
+{
+public abstract void Add(int x, int y);
+} //Abstract Class
