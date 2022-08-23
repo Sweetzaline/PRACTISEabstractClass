@@ -1,0 +1,13 @@
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\bin\Debug\netcoreapp3.1\AbstractClassApplication.exe
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\bin\Debug\netcoreapp3.1\AbstractClassApplication.deps.json
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\bin\Debug\netcoreapp3.1\AbstractClassApplication.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\bin\Debug\netcoreapp3.1\AbstractClassApplication.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\bin\Debug\netcoreapp3.1\AbstractClassApplication.dll
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\bin\Debug\netcoreapp3.1\AbstractClassApplication.pdb
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.dll
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.pdb
+C:\Users\Amit Pegu\Desktop\AbstractClass\AbstractClassApplication\AbstractClassApplication\obj\Debug\netcoreapp3.1\AbstractClassApplication.genruntimeconfig.cache
